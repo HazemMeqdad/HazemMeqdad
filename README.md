@@ -8,6 +8,7 @@
 - 💬 Ask me about anything related to Python
 - 📫 How to reach me: [@Discord](https://discord.com/channels/@me/750376850768789534)
 -  <span style="color: green"> 🗻 My main project is [فَاذْكُرُونِي](https://fdrbot.xyz) </span>
+- 👀 my portfolio site [hazemmeqdad.me](https://hazemmeqdad.me)
 
 ---
 
