@@ -35,7 +35,8 @@
 ### :fire: My Stats :
 
 <img align="left" alt="HazemMeqdad Stats" src="https://github-readme-stats.vercel.app/api?username=HazemMeqdad&count_private=true&show_icons=true&theme=radical">
+<img align="" alt="HazemMeqdad Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemMeqdad&layout=compact&theme=vision-friendly-dark">
 <br />
-<img align="left" alt="HazemMeqdad Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemMeqdad&layout=compact&theme=vision-friendly-dark">
-<br />
-<img align="left" alt="Codewars Stats" src="https://www.codewars.com/users/HazemMeqdad/badges/large">
+<a href="https://www.codewars.com/users/HazemMeqdad">
+  <img align="" alt="Codewars Stats" src="https://www.codewars.com/users/HazemMeqdad/badges/large">
+<a/>
