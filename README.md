@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  
 </div>
 
 ---
@@ -35,6 +35,7 @@
 ### :fire: My Stats :
 
 <img align="left" alt="HazemMeqdad Stats" src="https://github-readme-stats.vercel.app/api?username=HazemMeqdad&count_private=true&show_icons=true&theme=radical">
+<br />
 <img align="left" alt="HazemMeqdad Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemMeqdad&layout=compact&theme=vision-friendly-dark">
-
-
+<br />
+<img align="left" alt="Codewars Stats" src="https://www.codewars.com/users/HazemMeqdad/badges/large">
