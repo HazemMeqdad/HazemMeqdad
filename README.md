@@ -7,8 +7,8 @@
 
 - ❤ I’m love Python & C++(problem solving)
 - 💬 Ask me about anything related to Python
-- 📫 Contact: hazemmeqdad@outlook.com
-- 👀 my portfolio site [hazemmeqdad.github.io/portfolio](https://hazemmeqdad.github.io/portfolio/)
+- 📫 Contact: contact@hazemmeqdad.com
+- 👀 my portfolio site [www.hazemmeqdad.com](https://www.hazemmeqdad.com)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
