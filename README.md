@@ -7,7 +7,7 @@
 
 - ❤ I’m love Python & C++(problem solving)
 - 💬 Ask me about anything related to Python
-- 📫 Contact: info@hazemmeqdad.com
+- 📫 Contact: me@hazemmeqdad.com
 - 👀 my portfolio site [www.hazemmeqdad.com](https://www.hazemmeqdad.com)
 
 ---
